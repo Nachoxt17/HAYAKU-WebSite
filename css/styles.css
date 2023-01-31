@@ -63,7 +63,7 @@ section {
 
 img {
   display: block;
-  max-width: 175%;
+  max-width: 100%;
 }
 
 strong {
@@ -175,6 +175,14 @@ header {
   box-shadow: var(--bs);
 }
 
+.section__title--about {
+  color: var(--clr-light);
+}
+
+.section__subtitle--about {
+  color: var(--clr-dark);
+}
+
 @media (min-width: 600px) {
   .about-me {
     display: grid;
@@ -188,7 +196,6 @@ header {
 
   .section__title--about {
     grid-area: title;
-    color: var(--clr-light);
   }
 
   .section__subtitle--about {
@@ -200,7 +207,6 @@ header {
     width: calc(100% + 2em);
     padding-left: 1em;
     padding-right: calc(200px + 4em);
-    color: var(--clr-dark);
   }
 
   .about-me__img {
