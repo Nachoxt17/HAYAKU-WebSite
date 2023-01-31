@@ -63,7 +63,13 @@ section {
 
 img {
   display: block;
-  max-width: 100%;
+  max-width: 175%;
+}
+
+@media (max-width: 28.75em) {
+  img {
+    max-width: 100%;
+  }
 }
 
 strong {
