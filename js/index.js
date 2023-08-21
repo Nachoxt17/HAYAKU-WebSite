@@ -121,120 +121,6 @@ sr.reveal(".section__title--skills", {
   distance: "100px",
 });
 
-sr.reveal("#skillbar-html", {
-  duration: 2000,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-css", {
-  duration: 2100,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-js", {
-  duration: 2200,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-ts", {
-  duration: 2300,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-solidity", {
-  duration: 2400,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-web3js", {
-  duration: 2500,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-truffle-suite", {
-  duration: 2600,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-ipfs", {
-  duration: 2700,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-git", {
-  duration: 2800,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-bootstrap", {
-  duration: 2900,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-material-ui", {
-  duration: 3000,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-sass", {
-  duration: 3100,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-react", {
-  duration: 3200,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-redux", {
-  duration: 3300,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-vue", {
-  duration: 3400,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-node", {
-  duration: 3500,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-express", {
-  duration: 3600,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-mongodb", {
-  duration: 3700,
-  origin: "left",
-  distance: "300px",
-});
-
-sr.reveal("#skillbar-mongoose", {
-  duration: 3800,
-  origin: "left",
-  distance: "300px",
-});
-
 sr.reveal(".section__title--work", {
   duration: 2000,
   origin: "top",
@@ -283,7 +169,7 @@ sr.reveal("#resume", {
   distance: "300px",
 });
 
-sr.reveal("#github", {
+sr.reveal("#bookACall", {
   duration: 2500,
   origin: "bottom",
   distance: "300px",
